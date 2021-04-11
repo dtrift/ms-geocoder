@@ -1,0 +1,4 @@
+ru:
+  api:
+    errors:
+      missing_parameters: 'Отсутствуют необходимые параметры'

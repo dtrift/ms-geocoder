@@ -1,2 +1,0 @@
-rabbitmq:
-  consumer_pool: 10
